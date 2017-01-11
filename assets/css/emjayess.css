@@ -1,0 +1,19 @@
+#main {
+    background-color: #eff;
+}
+
+#main {
+    -webkit-box-shadow: 4px 6px 3px 0px rgba(78,78,78,0.78);
+    -moz-box-shadow: 4px 6px 3px 0px rgba(78,78,78,0.78);
+    box-shadow: 4px 6px 3px 0px rgba(78,78,78,0.78);
+}
+
+.fa-gitlab { background-color: #e14329; }
+
+.fa-github { background-color: #444; }
+
+.fa-twitter { background-color: #1da1f2; }
+
+.fa-instagram {
+    background: radial-gradient(ellipse at 70% 70%,#ee583f 8%,#d92d77 42%,#bd3381 58%);
+}
