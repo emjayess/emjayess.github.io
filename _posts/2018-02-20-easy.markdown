@@ -1,0 +1,21 @@
+---
+published: true
+title: easy
+layout: page
+permalink: easy
+---
+# Easy* aspects of web and systems development
+
+---
+
+### [Let's talk about usernames](https://www.b-list.org/weblog/2018/feb/11/usernames/)
+By James Bennet, b-list.org/weblog, February 2018
+> *Reasoning about the complexities and difficulties in enforcing uniqueness and disambiguation in identity and usernames.*
+
+> **Jump:** [Tripartite Identity Pattern](http://habitatchronicles.com/2008/10/the-tripartite-identity-pattern/)
+
+---
+
+<p style="float:right">
+<strong>*</strong><em>Actually hard aspects of web and systems development</em>
+</p>
